@@ -17,12 +17,12 @@ The aim of the challenge was to return the middle character of a word.
 <img width="1184" alt="Screen Shot 2019-04-15 at 20 54 45" src="https://user-images.githubusercontent.com/37377831/56162949-15c5ee80-5fc5-11e9-8f7b-69f8c0d0b407.png">
 
 # Step Three.
-> Write just the code code necessary to pass the test (Green).
+> Write just the code necessary to pass the test (Green).
 
 <img width="1181" alt="Screen Shot 2019-04-15 at 20 55 09" src="https://user-images.githubusercontent.com/37377831/56163110-6a696980-5fc5-11e9-8f69-43f2bd00fe8e.png">
 
 # Step Four.
-> write the test for the get_middle method just for the first case then run it. This should fail (Red).
+> write the test for the get_middle method just for the first case then run rspec. This should fail (Red).
 
 <img width="1186" alt="Screen Shot 2019-04-15 at 20 55 39" src="https://user-images.githubusercontent.com/37377831/56163216-aac8e780-5fc5-11e9-9cdc-8e24fc88afe3.png">
 
