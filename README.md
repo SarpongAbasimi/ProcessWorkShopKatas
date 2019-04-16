@@ -1,5 +1,5 @@
 # Makers Academy.
-At Makers Academy we eat, breathe, talk, and sleep TDD (Test Driving Development).
+At Makers Academy we eat, breathe, talk and sleep TDD (Test Driving Development).
 This folder contains some katas that I have solved as part of Makers Process Workshop.
 
 # What to Expect.
