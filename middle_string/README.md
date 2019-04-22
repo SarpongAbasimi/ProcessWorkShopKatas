@@ -1,4 +1,9 @@
 # Here is how I approached and solved this challenge in Ruby
+> To run the kata
+- Fork the repo.
+- clone the repo.
+- cd in directory.
+- ``run rspec ``
 
 > Aim of the challenge.
 The aim of the challenge was to return the middle character of a word. 
