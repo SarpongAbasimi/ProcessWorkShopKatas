@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Scrabble_solver
+  Scrabble solver
 </h1>
 
 
