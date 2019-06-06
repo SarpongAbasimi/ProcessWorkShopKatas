@@ -16,8 +16,14 @@ RSpec.describe Echo do
     it 'allows users to input what they would like to say' do
       allow_any_instance_of(Kernel).to receive(:gets).and_return('class')
       allow(STDOUT).to receive(:puts)
-      expect(STDOUT).to receive(:puts).with('class')
-      echo.say_something
+      expect(echo.say_something).to eq('class')
+    end
+  end
+
+  describe '#user_input' do
+    it 'allows users to input something' do
+      allow_any_instance_of(Kernel).to receive(:gets).and_return(user_input)
+      expect(echo.user_input).to eq("I want food")
     end
   end
 end
