@@ -2,6 +2,8 @@
   Echo Challenge.
 </h1>
 
+> Note That I haven't completed the whole challenge. My goal was to learn how to test ``inputs`` and ``outputs`` from the terminal which I have done and here is my reflection.
+
 <img width="738" alt="Screen Shot 2019-06-06 at 13 39 51" src="https://user-images.githubusercontent.com/37377831/59033465-af40ac80-8860-11e9-9d67-6ddc05739e24.png">
 
 #### How To Run This Application.
